@@ -2,8 +2,11 @@
 Welcome to PythonForDataScience! This repository is designed for beginners and professionals looking to master Python for Data Science. It covers essential libraries, hands-on projects, and real-world datasets to help you analyze, visualize, and model data effectively.
 
 🚀 What You'll Learn:
+
 ✔️ Python Basics for Data Science
+
 ✔️ Data Manipulation with Pandas & NumPy
+
 ✔️ Data Visualization with Matplotlib & Seaborn
 ✔️ Exploratory Data Analysis (EDA)
 ✔️ Machine Learning with Scikit-Learn
